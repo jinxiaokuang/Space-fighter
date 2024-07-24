@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1420212242 source:d:\games\ans\sourcecode\icon.rc
+
+1658792945 source:d:\games\ans\sourcecode\src\lessonx.cpp
+	<Stdio.h>
+	<fstream>
+	"CommonClass.h"
+	"LessonX.h"
+	"CBullet.h"
+	"CEnemyFighter.h"
+	"CGameSprite.h"
+
+1461255074 d:\games\ans\sourcecode\header\commonclass.h
+	<windows.h>
+
+1658792143 d:\games\ans\sourcecode\header\lessonx.h
+	<Windows.h>
+	<vector>
+	"CMyFighter.h"
+	"CSpriteList.h"
+
+1658757155 source:d:\games\ans\sourcecode\src\main.cpp
+	"CommonClass.h"
+	"LessonX.h"
+	"CMyFighter.h"
+
+1658792840 source:d:\games\ans\sourcecode\src\cmyfighter.cpp
+	"CMyFighter.h"
+	"LessonX.h"
+	"CBullet.h"
+	"CGameSprite.h"
+
+1658711891 d:\games\ans\sourcecode\header\cmyfighter.h
+	<CommonClass.h>
+	"CGameSprite.h"
+
+1658792143 source:d:\games\ans\sourcecode\src\cbullet.cpp
+	"CBullet.h"
+	"CGameSprite.h"
+	"LessonX.h"
+
+1658732219 d:\games\ans\sourcecode\header\cbullet.h
+	<CommonClass.h>
+	"CGameSprite.h"
+
+1658711891 d:\games\ans\sourcecode\header\cenemyfighter.h
+	<CommonClass.h>
+	"CGameSprite.h"
+
+1658792205 source:d:\games\ans\sourcecode\src\cenemyfighter.cpp
+	"CEnemyFighter.h"
+	"stdio.h"
+	"CommonClass.h"
+	"LessonX.h"
+	"CGameSprite.h"
+
+1658704998 d:\games\ans\sourcecode\header\cspritelist.h
+	"CommonClass.h"
+	"CGameSprite.h"
+
+1658704998 source:d:\games\ans\sourcecode\src\cspritelist.cpp
+	"CSpriteList.h"
+	"CGameSprite.h"
+
+1658742101 d:\games\ans\sourcecode\header\cgamesprite.h
+	<CommonClass.h>
+
+1658740145 source:d:\games\ans\sourcecode\src\cgamesprite.cpp
+	"CGameSprite.h"
+
